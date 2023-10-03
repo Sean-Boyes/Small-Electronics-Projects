@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=U2 Old Footprint=TI-DQN4-480X480TP_V New Footprint=TI-DQN4-480X480TP_V
+Added Pin To Net: NetName=VBUS Pin=IC1-8
+Added Pin To Net: NetName=VBUS Pin=R3-2
+Added Pin To Net: NetName=VBUS Pin=R5-2
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Member To Class: ClassName=Sheet1 Member=Component R9 Resistor 47K5 +/-1 % 0402 63 mW
+Added Member To Class: ClassName=Sheet1 Member=Component S5 BOOT
+Added Member To Class: ClassName=Sheet1 Member=Component U1 COM-09032

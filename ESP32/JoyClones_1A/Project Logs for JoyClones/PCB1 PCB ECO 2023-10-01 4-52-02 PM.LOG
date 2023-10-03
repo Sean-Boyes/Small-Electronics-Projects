@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=GND Pin=U2-B2A
+Added Pin To Net: NetName=GND Pin=U2-H3
+Added Pin To Net: NetName=GND Pin=U2-S1
+Added Pin To Net: NetName=GND Pin=U2-S2
+Added Pin To Net: NetName=GND Pin=U2-S3
+Added Pin To Net: NetName=GND Pin=U2-S4
+Added Pin To Net: NetName=GND Pin=U2-V3
+Change Net Name : Old Net Name=GND New Net Name=JOY_GND

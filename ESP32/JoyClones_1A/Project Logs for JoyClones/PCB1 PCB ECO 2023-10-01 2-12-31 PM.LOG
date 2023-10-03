@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VBUS Pin=IC1-8
+Removed Pin From Net: NetName=VBUS Pin=R3-2
+Removed Pin From Net: NetName=VBUS Pin=R5-2
+Change Net Name : Old Net Name=NetIC1_9 New Net Name=UART_RST
+Change Net Name : Old Net Name=NetIC1_11 New Net Name=UART_SUSPEND
+Change Net Name : Old Net Name=VBUS New Net Name=UART_VDD
+Added Pin To Net: NetName=UART_VBUS Pin=IC1-8
+Added Pin To Net: NetName=UART_VBUS Pin=R3-2
+Added Pin To Net: NetName=UART_VBUS Pin=R5-2
+Added Net: Name=UART_VBUS

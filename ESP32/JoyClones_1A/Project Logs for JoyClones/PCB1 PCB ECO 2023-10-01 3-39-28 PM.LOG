@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=USB_D_P Pin=J1-B6
+Removed Pin From Net: NetName=USB_D_N Pin=J1-B7
+Removed Pin From Net: NetName=3V3 Pin=U3-3
+Added Pin To Net: NetName=CHIP_PU Pin=U3-3
